@@ -1,0 +1,33 @@
+body{
+    background-color: #ffa600;
+}
+.wrapper{
+    width: 800px;
+    margin:30px auto;
+    color: white;
+    text-align: center;
+    margin: 220px;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 2.6em;
+    text-transform: uppercase;
+}
+#tens,#seconds{
+    font-size: 2em;
+}
+button{
+    background: #ffa600;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 10px 10px;
+    width: 100px;
+    margin: 10px;
+}
+button:hover{
+    background-color: white;
+    color: #ffa600;
+}
